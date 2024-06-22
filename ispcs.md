@@ -1,3 +1,7 @@
+# Study of Induced Pluripotent Stem Cells
+
+### Ideas and possible study routes
+
 Induced pluripotent stem cells (iPSCs) are a groundbreaking technology that allows scientists to create patient-specific stem cells from adult cells, such as skin or blood cells. These iPSCs can then be directed to develop into any type of cell in the body, including those needed to form specific organs. Here's how the process generally works:
 
 1. **Reprogramming Adult Cells**:
